@@ -5,12 +5,12 @@
 |
 <a href="https://linkedin.com/" target="_blank">LinkedIn</a>__</span>
 
-## __Languages and Aptitudes__
-
-Python, C++, C, SQLite, Git, SVN, Linux Shell, Jupyter Notebook, Eclipse, MS Office Suite, Adobe Premier, Adobe Photoshop
-
-## _Hardware & Electronics_
-
+## __Skills__
+### __Languages__
+Python, C++, C, SQLite
+###__Aptitudes__
+Git, AWS, Jupyter Notebook, Eclipse, MS Office Suite, Adobe Photoshop, Adobe Premier
+### __Hardware & Electronics__
 Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
