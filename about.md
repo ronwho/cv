@@ -8,19 +8,12 @@
 ## __Skills__
 ### __Languages__
 Python, C++, C, SQLite
-###__Aptitudes__
+### __Aptitudes__
 Git, AWS, Jupyter Notebook, Eclipse, MS Office Suite, Adobe Photoshop, Adobe Premier
 ### __Hardware & Electronics__
 Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim
+### __Technical Data Science Skills__
 
-| <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
-|:-----------------------|-------------------------------------:|
-| __Machine Learning__   | *NLP, Trees, Clustering*             |
-| __Data Analysis__      | *EDA, Research, Predictive*          |
-| __Data Visualisation__ | *plotly, highcharters*               |
-| __Mathematics__        | *Statistics, Probability, Theory*    |
-
------------------
 
 ## __Currently__
 
