@@ -6,12 +6,8 @@
 <a href="https://linkedin.com/" target="_blank">LinkedIn</a>__</span>
 
 ## __Skills__
-### __Languages__
-Python, C++, C, SQLite
-### __Aptitudes__
-Git, AWS, Jupyter Notebook, Eclipse, MS Office Suite, Adobe Photoshop, Adobe Premier
-### __Hardware & Electronics__
-Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim
+### __Languages and Aptitudes__
+Python, C++, C, SQLite, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim, MS Office Suite, Adobe Photoshop, Adobe Premier
 ### __Technical Data Science Skills__
 
 
@@ -19,30 +15,20 @@ Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim
 
 &nbsp; &nbsp; __What I'm Doing__
 
-: > I am an __*Undergraduate student* at the University of North Texas__, pursuing a __Bachelors of Science in *Data Science* with a minor in *Mathematics*, focused in *statistics and probability*__. I plan to __gradute by *December of 2021*__. I am also spending my summer __participating in several *Data Science Research* Projects__ that the University of North Texas is involved in.
+: > I am an *Undergraduate* at the University of Toronto, pursuing a __Bachelors of Applied Science in *Computer Engineering* with a minor in *Artificial Intelligence*__. I plan to __gradute by *2023 (+PEY)*__. This summer I completed a data science course from Harvard University (CS109) and also achieved a coursera certificate for "SQL for Data Scientists."
 
 
 &nbsp; &nbsp; __My Projects__
 
-: > 1. __<a href="https://alexander-kahanek.github.io/project" title="My Project Page" target="_blank">My *personal webpage*</a>__ hosts the final product for most of __my more *interesting projects*__.
-> 
-> 2. __<a href="https://github.com/alexander-kahanek" title="My GitHub Page" target="_blank">My *github account*</a>__ hosts all of __my *code* and *documentation*__, which includes most of __my *school work*, as well as any projects__.
-
-&nbsp; &nbsp; __Research__
-
-: > 1. Currently attending a __*Machine Learning* focused *Research* Program for the *Data Science and Information Technology department*__ at the University of North Texas.
-> 
-> 2. Currently __collaborating in a different *research project*__ focused on using __COVID-19 tweet data to preform *Natural Language Proccessing* with *flair* and *spaCy*__.
-
+: > __<a href="https://ronwho.github.io/testing/project/" title="Projects" target="_blank">All my projects are on GitHub.
 
 ----------------
 ## __Education__
 
-`2018-21` __University of North Texas__
+`2018-23` __University of Toronto__
 
-: > B.S. __*Data Science*__, Minor in __*Mathematics*__, __*Statistics*__ Certification
+: > B.S. Applied Science Minor in AI
 > 
-> Current __*GPA*__: __3.9__
 
 ## __Employment__
 
@@ -67,19 +53,8 @@ Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim
 : > __Responded to over *600* emergent 911 calls__, where I learned the importance of __*thorough documentation*__. 
 
 
-## __Soft Skills__
-
-```python
-1. Effective Communication
-2. Stategic Planning and Leadership
-3. Detail Oriented
-4. Analytical Problem Solving
-```
-
-<span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">__<a href="mailto:ron.hu@mail.utoronto.ca">ron.hu@mail.utoronto.ca</a>
 |
-<a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
+<a href="https://github.com/ronwho" target="_blank">GitHub</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
-|
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
+<a href="https://linkedin.com/" target="_blank">LinkedIn</a>__</span>
