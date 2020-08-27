@@ -7,7 +7,11 @@
 
 ## __Languages and Aptitudes__
 
-hello hello hello 
+Python, C++, C, SQLite, Git, SVN, Linux Shell, Jupyter Notebook, Eclipse, MS Office Suite, Adobe Premier, Adobe Photoshop
+
+## _Hardware & Electronics_
+
+Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
 |:-----------------------|-------------------------------------:|
