@@ -1,20 +1,13 @@
-# Alexander R. Kahanek
-<span style="color:blue">__<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+# Ron Hu
+<span style="color:green">__<a href="mailto:ron.hu@mail.utoronto.ca">ron.hu@mail.utoronto.ca</a>
 |
-<a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
+<a href="https://github.com/ronwho" target="_blank">GitHub</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
-|
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>__</span>
+<a href="https://linkedin.com/" target="_blank">LinkedIn</a>__</span>
 
-## __Programming skills__
+## __Languages and Aptitudes__
 
-```python
-1. R       *****
-2. Python  ****
-3. SQL     **
-4. C/C++   **
-```
+hello hello hello 
 
 | <span style="color:blue">__*Area*__</span> | <span style="color:blue">__*Expertise*__</span> |
 |:-----------------------|-------------------------------------:|
