@@ -20,7 +20,7 @@ Python, C++, C, SQLite, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly A
 
 &nbsp; &nbsp; __My Projects__
 
-: > __<a href="https://ronwho.github.io/testing/project/" title="Projects" target="_blank">Click here to see my personal projects__
+: > <a href="https://ronwho.github.io/testing/project/" title="Projects" target="_blank">Click here to see my personal projects.
 
 ----------------
 ## __Education__
@@ -32,25 +32,18 @@ Python, C++, C, SQLite, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly A
 
 ## __Employment__
 
-`2019-Curr` __Mathematics Tutor__
+`2019 (2mo)` __Software Specialist Intern__
 
-&nbsp; &nbsp; &nbsp; *University of North Texas*
+&nbsp; &nbsp; &nbsp; *Metashare China*
 
-: > __Tutored over 400 fellow students in a multitude of *mathematics courses*__, learning how to __*illustrate* and *convey* complex concepts__ to others effectively. 
-
-
-`2012-18` __Health Care Specialist (68W)__
-
-&nbsp; &nbsp; &nbsp; *United States Army, National Guard (MA, TX)*
-
-: > __Spearheaded a team of *15 people*__, that __reduced response time by *50%*__, for the East African Response Force, while working in the medical sector learning how to __solve problems efficiently and quickly__. 
+: > Developed educational content and tutorials (documents and PowerPoints) about MetaShare's Model Driven Development (MDD) software. Created videos to illustrate how to model business case, business process, domain models in order to fully utilize the MDD software.
 
 
-`2015-17`__Emergency Medical Technician__
+`2018`__Camp Instructor__
 
-&nbsp; &nbsp; &nbsp; *American Medical Respoonse (MA, TX)*
+&nbsp; &nbsp; &nbsp; *Geering Up UBC*
 
-: > __Responded to over *600* emergent 911 calls__, where I learned the importance of __*thorough documentation*__. 
+: > Educated a class of 30 students about science and engineering. I focused on teaching students the ability to effectively identify and solve engineering problems. 
 
 
 <span style="color:blue">__<a href="mailto:ron.hu@mail.utoronto.ca">ron.hu@mail.utoronto.ca</a>
