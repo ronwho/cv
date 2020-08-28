@@ -20,7 +20,7 @@ Python, C++, C, SQLite, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly A
 
 &nbsp; &nbsp; __My Projects__
 
-: > <a href="https://ronwho.github.io/testing/project/" title="Projects" target="_blank">Click here to see my personal projects.
+: > <a href="https://ronwho.github.io/cv/project/" title="Projects" target="_blank">Click here to see my personal projects.
 
 ----------------
 ## __Education__
