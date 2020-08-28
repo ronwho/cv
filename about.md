@@ -32,7 +32,7 @@ Python, C++, C, SQLite, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly A
 
 ## __Employment__
 
-`2019 (2mo)` __Software Specialist Intern__
+`2019 (2mo)` __Software Technical Writer__
 
 &nbsp; &nbsp; &nbsp; *Metashare China*
 

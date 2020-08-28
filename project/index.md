@@ -1,12 +1,12 @@
 # <span style="color:blue">Projects</span>
 
 
-### <a href="hotel.html" title="Finished Product" target="_blank">Hotel Booking Canceled or Not?</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
+### <a href="https://github.com/ronwho/Direct-GIS" target="_blank">"Direct" Geographial Information System</a> &nbsp; C++
 
-&nbsp; &nbsp; _Machine Learning, Classification_ `April 30, 2020`
-: > This project uses __*hotel booking data* from Trivago__, the project is focused on __predicting whether a booking will potentially be canceled or retained__ through the use of __creating multiple models with *Random Forest*__, as well as __an Exploratory Data Analysis__. This is done to __gain better *insight* into bookings__, as well as to __gain a *market advantage* through the potential use of *targeted advertising*__ with the help of __Machine Learning__.
+&nbsp; &nbsp; Group Project `Winter 2019-2020`
+: > Direct is a geographical information system that allow users to search for intersections or points of interests (such as restaurants, hospitals, and much more) and also find the shortest route between two intersections by car, walking, or combination of both. It can even compute a rough estimate the time it takes to get to your destination. This was written in C++ and uses EZGL for user interface.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="hotel.html" target="_blank"><img src="button-output.png" /></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/Alexander-Kahanek/Trivago_Classification" target="_blank"><img src="button-github.png" /></a>
+&nbsp; &nbsp; &nbsp; <a href="https://github.com/ronwho/Direct-GIS" target="_blank"><img src="button-github.png" /></a>
 
 
 ### <a href="accidents.html" title="Finished Product" target="_blank">Weekdays vs Weekend: Texas Accidents</a> &nbsp; ![image](/assets/icons/rsz_1rsz_1rsz_619px-r_logosvg.png)
