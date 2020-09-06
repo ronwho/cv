@@ -15,7 +15,7 @@ Python, C++, C, SQLite, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly A
 
 &nbsp; &nbsp; __What I'm Doing__
 
-: > I am an *Undergraduate* at the University of Toronto, pursuing a __Bachelors of Applied Science in *Computer Engineering* with a minor in *Artificial Intelligence*__. I plan to __gradute by *2023 (+PEY)*__. This summer I completed a data science course from Harvard University (CS109) and also achieved a coursera certificate "SQL for Data Scientists."
+: > I am an *undergraduate student* at the University of Toronto, pursuing a __Bachelors of Applied Science in *Computer Engineering* with a minor in *Artificial Intelligence*__. I plan to __gradute by *2023 (+PEY)*__. This summer I completed a data science course from Harvard University (CS109) and also achieved a coursera certificate "SQL for Data Scientists."
 
 
 &nbsp; &nbsp; __My Projects__
