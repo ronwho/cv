@@ -3,7 +3,7 @@
 
 ### <a href="https://github.com/ronwho/Direct-GIS" target="_blank">Various Exploratory Data Analysis Small Projects</a> &nbsp; C++
 
-&nbsp; &nbsp; Individual `Summer 2020-2021`
+&nbsp; &nbsp; Individual `Summer 2020`
 : > EDA topics include: Effect of time elpsed on gene expressions, polster bias, and picking baseball players using regression. I have also worked on mini learning projects to learn material such as k-NN classification and cross validation on datasets from sklearn. Please click the link below to see full descriptions of my projects.
 
 &nbsp; &nbsp; &nbsp; <a href="https://github.com/ronwho/Data-Science" target="_blank"><img src="button-github.png" /></a>
