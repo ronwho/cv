@@ -9,6 +9,7 @@
 ### __Languages and Aptitudes__
 Python, C++, C, SQLite<a href="https://coursera.org/share/1a4d26640a42f2b7a78cb0317419efad" target="_blank">(Certifcate)</a>, Git, AWS, Jupyter Notebook, Eclipse, Verilog, Assembly ARM, Intel Quartus, ModelSim, MultiSim, MS Office Suite, Adobe Photoshop, Adobe Premier
 ### __Technical Data Science Skills__
+Data wrangling, data visualization, SVD dimension reduction, Linear Regression, k-Nearest Neighbors, Cross Validation 
 
 
 ## __Currently__
