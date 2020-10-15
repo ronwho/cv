@@ -1,12 +1,20 @@
 # <span style="color:blue">Projects</span>
 
 
-### <a href="https://github.com/ronwho/Direct-GIS" target="_blank">Various Exploratory Data Analysis Small Projects</a> &nbsp; C++
+### <a href="https://github.com/ronwho/Data-Science" target="_blank">Various Exploratory Data Analysis Small Projects</a> &nbsp; Python
 
 &nbsp; &nbsp; Individual `Summer 2020`
 : > EDA topics include: Effect of time elapsed on gene expressions, polster bias, and picking baseball players using regression. I have also worked on mini learning projects to learn material such as k-NN classification and cross validation on datasets from sklearn. Please click the link below to see full descriptions of my projects.
 
 &nbsp; &nbsp; &nbsp; <a href="https://github.com/ronwho/Data-Science" target="_blank"><img src="button-github.png" /></a>
+
+
+### <a href="https://github.com/ronwho/ThoughtBubble" target="_blank">ThoughtBubble</a> &nbsp; Python using Flask as Framework
+
+&nbsp; &nbsp; Individual `Summer 2020 - Present`
+: >ThoughtBubble is a blog web application built using Python Flask microframework where users can post snippets of their everyday philosophical thoughts. This is a fun project for me as it introduces me how to build a simple web application using Flask.
+
+&nbsp; &nbsp; &nbsp; <a href="https://github.com/ronwho/ThoughtBubble" target="_blank"><img src="button-github.png" /></a>
 
 ### <a href="https://github.com/ronwho/Direct-GIS" target="_blank">"Direct" Geographial Information System</a> &nbsp; C++
 
